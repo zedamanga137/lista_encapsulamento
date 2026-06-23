@@ -1,0 +1,15 @@
+questão um:
+abstração é o ato de filtrar somente o que convém.
+ex:
+tenho um aluno cujo ID é 001, preciso cadastra-lo. o que eu vou pôr nos
+registros é: cor, nome, cpf e um vetor com notas. as informações que não
+teriam utilidade e só ocupariam memória como a cor do sapato favorito seriam
+deixadas de lado para que mais alunos sejam cadastrados em seus respectivos
+cursos.
+
+questão dois:
+o encapsulamento é uma forma de deixar mais seguro o atributo, sinalizando
+ou dificultando o acesso. usando @property pode ser realizado um setter e um
+getter mais automatizado e seguro.
+
+questão três
