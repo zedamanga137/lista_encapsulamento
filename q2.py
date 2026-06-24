@@ -105,3 +105,4 @@ class Pet:
 
 clinica = Clinica("Rua dos Bobos, 0 - Bairro Imaginário - São Paulo - SP - CEP: 00000-000")
 print(clinica.endereco)
+#batata
